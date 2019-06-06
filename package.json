@@ -66,7 +66,7 @@
     "lerna-changelog": "^0.8.2",
     "markdox": "^0.1.10",
     "mime-types": "^2.1.22",
-    "np": "^5.0.2",
+    "np": "5.0.2",
     "npm-run-all": "^4.1.5",
     "recursive-readdir": "^2.2.2",
     "rimraf": "^2.6.3",
